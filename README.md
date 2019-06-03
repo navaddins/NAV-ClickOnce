@@ -1,0 +1,2 @@
+# NAV-ClickOnce
+Navision ClickOnce
